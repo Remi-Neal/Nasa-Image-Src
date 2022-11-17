@@ -18,7 +18,7 @@ API Image Docs: `https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf`
   - [x] P for description
   - [x] ul entry for every keyword
 - [ ] Filter by keyword? or year?
-- [ ] CSS crap
+- [ ] CSS stuff
   - [ ] Image on left
   - [ ] Title above image
   - [ ] Description on right
