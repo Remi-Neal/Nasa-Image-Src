@@ -1,6 +1,6 @@
-Use [this](https://api.nasa.gov) API from NASA  
-API key: `oH91OhNcmf4jJ35uf4mwRLzP2uYzgybpL2gx2vCY`  
-Example web request: `https://api.nasa.gov/planetary/apod?api_key=<api key>`  
+# Nasa-Image-Src  
+## Creative Project 2 for BYU CS 260  
+
 API Image Docs: `https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf`  
 
 ## Project Plan  
